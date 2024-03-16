@@ -70,7 +70,13 @@ print("RMSE= ",rmse)
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
+![image](https://github.com/Abinavsankar/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119103734/7e9a0db3-e69f-464a-b763-778bb634d3e3)
+![image](https://github.com/Abinavsankar/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119103734/85657f61-c270-41c6-b22f-4b26f0e41904)
+![image](https://github.com/Abinavsankar/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119103734/cea603c4-a8ca-44c2-bbba-16f23bdfab47)
+![image](https://github.com/Abinavsankar/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119103734/ef4c00fc-47fe-45d5-bc2c-598fe8f46a2f)
+![image](https://github.com/Abinavsankar/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119103734/de66d5bb-1602-4c04-bf03-c484eb8a14c1)
+![image](https://github.com/Abinavsankar/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119103734/1c2d260f-9914-494e-afe6-542b2fab4ae4)
+
 
 
 ## Result:
